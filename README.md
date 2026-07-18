@@ -11,7 +11,7 @@ this one is slightly softer to give a more professional dashboard appearance.
 
 ## Live demo
 
-`https://<your-vercel-url>.vercel.app`
+`https://tda-gen-agentic-ai-week6-cu2mdeqam-aparna7710s-projects.vercel.app/`
 
 ## Running it locally
 
