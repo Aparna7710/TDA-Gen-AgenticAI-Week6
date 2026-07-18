@@ -1,16 +1,13 @@
 # Clarity Resume
 
-Final capstone for the AI summer school. You upload your resume as a PDF (and
+This is the final capstone for TDA AI summer school. You upload your resume as a PDF (and
 optionally paste a job description), and it runs through a small pipeline of
 agents that pull out your actual skills/projects, look them up against a
-knowledge base, and hand back specific things to build or learn next instead
-of the usual "improve your communication skills" filler.
+knowledge base, and hands back specific things to build or learn next instead
+of the usual fillers like "improve your communication skills" .
 
 Same UI direction as the rest of my Clarity series — purple, dark — but
-softened it for this one: warmer plum instead of near-black, muted lavender
-accent instead of neon, Fraunces for headings against Inter body text, soft
-rounded cards instead of glass/blur. No stamps or gimmicks, just tried to
-make it feel less like a templated dashboard.
+this one is slightly softer to give a more professional dashboard appearance.
 
 ## Live demo
 
