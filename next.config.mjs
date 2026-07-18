@@ -1,7 +1,3 @@
-const nextConfig = {
-  experimental: {
-    serverComponentsExternalPackages: ["pdf-parse"]
-  }
-};
+const nextConfig = {};
 
 export default nextConfig;
