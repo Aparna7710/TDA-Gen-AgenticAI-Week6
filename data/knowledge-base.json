@@ -1,0 +1,110 @@
+[
+  {
+    "id": "kb-001",
+    "domain": "Frontend Engineering",
+    "title": "Modern Frontend Track",
+    "content": "Frontend roles in 2026 expect strong React or Vue fundamentals, TypeScript, component architecture, and accessibility basics. Trending tools: Next.js App Router, server components, Tailwind, Vite, Zustand or Jotai for state. Strong portfolios show at least one performance-optimized, responsive, deployed app rather than tutorial clones. Good project ideas: a real-time collaborative tool, a design-system/component library published to npm, or a data-heavy dashboard with virtualization."
+  },
+  {
+    "id": "kb-002",
+    "domain": "Backend Engineering",
+    "title": "Backend & API Design Track",
+    "content": "Backend roles value REST/GraphQL API design, database modeling (SQL and NoSQL), authentication/authorization, caching, and basic system design (load balancing, queues, rate limiting). Trending: Node.js with TypeScript, Go, or Python/FastAPI, plus Redis and PostgreSQL. Good project ideas: a multi-tenant SaaS backend with rate limiting and background jobs, a URL shortener with analytics, or a chat backend using websockets and message queues."
+  },
+  {
+    "id": "kb-003",
+    "domain": "Data Science & Machine Learning",
+    "title": "Applied ML Track",
+    "content": "Data science and ML roles expect Python, pandas, scikit-learn, and a portfolio showing the full pipeline: data cleaning, feature engineering, model evaluation, and clear communication of results. Deep learning roles add PyTorch or TensorFlow. Trending: LLM fine-tuning, evaluation harnesses, and MLOps basics (experiment tracking, model versioning). Good project ideas: an end-to-end Kaggle-style project with a written report, a churn or fraud prediction model deployed as an API, or a small fine-tuned model with a documented evaluation."
+  },
+  {
+    "id": "kb-004",
+    "domain": "AI / LLM Engineering",
+    "title": "LLM & Generative AI Applications Track",
+    "content": "LLM application engineering values prompt engineering, retrieval-augmented generation (RAG), agentic workflows, and API integration (OpenAI, Gemini, Anthropic). Employers look for projects that go beyond a chatbot wrapper: multi-step agents, tool use, structured output, and evaluation of hallucination or grounding quality. Good project ideas: a RAG system over a domain-specific corpus with citation, a multi-agent workflow that plans and executes tasks, or a fine-tuned or prompt-optimized assistant with measured accuracy improvements."
+  },
+  {
+    "id": "kb-005",
+    "domain": "DevOps & Cloud",
+    "title": "Cloud & DevOps Track",
+    "content": "DevOps and cloud roles expect Docker, CI/CD pipelines, and one major cloud provider (AWS, GCP, or Azure). Trending: Kubernetes basics, infrastructure as code (Terraform), and observability (logging, metrics, tracing). Good project ideas: a CI/CD pipeline that auto-deploys a personal project with rollback, a small Kubernetes cluster running a multi-service app, or an infrastructure-as-code template for a common stack."
+  },
+  {
+    "id": "kb-006",
+    "domain": "Mobile Development",
+    "title": "Mobile App Development Track",
+    "content": "Mobile roles expect either native (Kotlin/Swift) or cross-platform (React Native, Flutter) proficiency, along with state management, offline support, and app store deployment experience. Good project ideas: an offline-first app with local sync, a polished app published to a store (even informally via TestFlight/APK), or a mobile app that integrates device sensors or camera in a non-trivial way."
+  },
+  {
+    "id": "kb-007",
+    "domain": "Cybersecurity",
+    "title": "Security & AppSec Track",
+    "content": "Security roles expect understanding of common vulnerability classes (OWASP Top 10), secure coding practice, and some hands-on CTF or bug bounty experience. Trending: cloud security, container security, and basic threat modeling. Good project ideas: a documented vulnerability writeup from a CTF, a small static analysis or dependency-scanning tool, or a hardened deployment of a common app with a security checklist.'"
+  },
+  {
+    "id": "kb-008",
+    "domain": "Competitive Programming & DSA",
+    "title": "Algorithms & Problem Solving Track",
+    "content": "Strong DSA fundamentals (arrays, trees, graphs, DP, greedy, number theory) remain the baseline filter for most SDE interviews. Competitive programming ratings (Codeforces, CodeChef, LeetCode) are a credible, checkable signal recruiters scan for. Good additions: a consistent contest history, a few well-explained editorial-style writeups of hard problems, or a small library of reusable algorithm implementations."
+  },
+  {
+    "id": "kb-009",
+    "domain": "Full-Stack Development",
+    "title": "Full-Stack Product Track",
+    "content": "Full-stack roles value the ability to ship a complete product: frontend, backend, database, auth, and deployment. Recruiters look for at least one project with real users or a real deployment link, not just source code. Good project ideas: a small SaaS tool solving a specific personal problem, an open-source contribution to an existing full-stack repo, or a polished clone with one genuinely original feature."
+  },
+  {
+    "id": "kb-010",
+    "domain": "Embedded Systems & IoT",
+    "title": "Embedded & IoT Track",
+    "content": "Embedded roles expect C/C++, microcontroller experience (ESP32, STM32, Arduino), and understanding of protocols like I2C, SPI, UART, and MQTT. Trending: edge AI on microcontrollers (TinyML) and IoT security. Good project ideas: a sensor network with a cloud dashboard, an edge-AI project running a small model on-device, or a home-automation system with a custom PCB or well-documented wiring."
+  },
+  {
+    "id": "kb-011",
+    "domain": "Game Development",
+    "title": "Game Dev Track",
+    "content": "Game development roles expect a shipped or demo-able game, familiarity with an engine (Unity or Unreal or a custom engine), and understanding of game loops, physics, and optimization. Good project ideas: a small polished game with real playtesting feedback incorporated, a custom shader or rendering technique writeup, or a multiplayer game with basic netcode."
+  },
+  {
+    "id": "kb-012",
+    "domain": "Blockchain & Web3",
+    "title": "Blockchain Track",
+    "content": "Blockchain roles expect Solidity or Rust smart contract experience, understanding of gas optimization, and security awareness (reentrancy, overflow, access control). Good project ideas: an audited or self-audited smart contract with tests, a small DeFi primitive built from scratch, or a contribution to an open-source protocol."
+  },
+  {
+    "id": "kb-013",
+    "domain": "QA & Testing",
+    "title": "Quality Engineering Track",
+    "content": "QA and test engineering roles expect automated testing frameworks (Playwright, Cypress, Selenium), understanding of test pyramids, and CI integration. Good project ideas: an end-to-end test suite for an existing open-source app, a custom testing utility or linter, or a documented bug-hunting case study."
+  },
+  {
+    "id": "kb-014",
+    "domain": "Data Visualization & Analytics",
+    "title": "Data Analytics Track",
+    "content": "Analytics roles expect SQL fluency, dashboarding tools (Tableau, Power BI, or a custom dashboard with Python/JS), and clear storytelling with data. Good project ideas: a dashboard built on a real public dataset with actionable insights, an A/B test analysis writeup, or a data pipeline that automates a recurring report."
+  },
+  {
+    "id": "kb-015",
+    "domain": "Systems Programming",
+    "title": "Low-Level & Systems Track",
+    "content": "Systems roles expect C/C++/Rust, understanding of memory management, concurrency, and OS fundamentals. Good project ideas: a small database or key-value store built from scratch, a custom memory allocator with benchmarks, or contributions to a systems-level open-source project."
+  },
+  {
+    "id": "kb-016",
+    "domain": "Product & Design Collaboration",
+    "title": "Product-Minded Engineering",
+    "content": "Engineers who can articulate the 'why' behind features stand out in interviews. This shows up as documenting user problems solved by a project, including before/after metrics or usage numbers, and writing concise READMEs that explain tradeoffs. Good additions to any resume: a short case-study style writeup for one flagship project explaining the problem, approach, and outcome."
+  },
+  {
+    "id": "kb-017",
+    "domain": "Open Source Contribution",
+    "title": "Open Source Track",
+    "content": "Merged pull requests to real open-source projects are a strong, verifiable signal of collaboration skill and code quality, often weighted more than solo projects. Good approach: start with documentation or test fixes to learn a codebase, then move to small feature or bug-fix PRs in a project relevant to the target role."
+  },
+  {
+    "id": "kb-018",
+    "domain": "Resume Craft",
+    "title": "Resume Writing Best Practices",
+    "content": "Strong resumes lead each bullet with an action verb and a measurable outcome (percentage, time saved, users reached) rather than a list of duties. Project sections should name the concrete problem solved and the stack used, with a live link when possible. One page is standard for students and early-career candidates; keep formatting simple and ATS-friendly (no tables or images for text content)."
+  }
+]
