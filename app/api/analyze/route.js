@@ -8,9 +8,7 @@ import {
   GAP_SYSTEM,
   buildGapPrompt,
   RECOMMENDER_SYSTEM,
-  buildRecommenderPrompt,
-  CRITIC_SYSTEM,
-  buildCriticPrompt
+  buildRecommenderPrompt
 } from "../../../lib/prompts";
 
 export const maxDuration = 60;
