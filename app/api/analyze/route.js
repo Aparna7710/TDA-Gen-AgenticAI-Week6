@@ -63,8 +63,7 @@ export async function POST(request) {
     );
     mark("recommender", "Generated project, skill, and improvement suggestions");
 
-    const finalResult = await generateJSON(CRITIC_SYSTEM, buildCriticPrompt(recommendation, extraction));
-    mark("critic", "Reviewed and sharpened suggestions for specificity");
+   const finalResult = recommendation;
 
     return NextResponse.json({
       extraction,
